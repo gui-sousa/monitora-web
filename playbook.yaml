@@ -49,7 +49,7 @@
       shell:
         cmd: sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
         
-    - name: Instala Promethues
+    - name: Instala Prometheus
       become: yes
       git:
         repo: https://github.com/kaihendry/pingprom.git
