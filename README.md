@@ -1,4 +1,4 @@
-# Monitora_Web
+# monitora-web
 Monitoração automatizada usando Prometheus+Grafana com base no projeto Pingprom https://github.com/kaihendry/pingprom
 
 # Notas
